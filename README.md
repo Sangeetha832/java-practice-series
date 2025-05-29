@@ -17,4 +17,10 @@ I’m building this as part of my personal learning challenge and preparation fo
 ---
 
 ## 📂 Folder Structure
-
+java-practice-series/
+┣ src/
+┃ ┣ day01_basics/
+┃ ┃ ┣ PrimeNumber.java
+┃ ┃ ┗ Student.java
+┃ ┗ day02_loops/
+┃ ┗ [upcoming files]
