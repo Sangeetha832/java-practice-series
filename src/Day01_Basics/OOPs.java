@@ -1,6 +1,9 @@
 package Day01_Basics;
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 3adf8fd5ce820ca2829e92a6a7f5fa605927f769
 abstract class BankAccount{
 	private String accountNumber;
 	private double balance;
@@ -84,5 +87,8 @@ public class OOPs {
         System.out.println("Current Account Number: " + acc2.getAccountNumber());
 	}
 }
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 3adf8fd5ce820ca2829e92a6a7f5fa605927f769

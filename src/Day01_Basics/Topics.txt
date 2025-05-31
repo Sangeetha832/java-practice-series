@@ -1,0 +1,9 @@
+Loops (for, while, do-while)
+
+Conditionals (if-else, switch)
+
+Classes and Objects
+
+Method Overloading vs Overriding
+
+OOP Concepts: Inheritance, Encapsulation, Polymorphism, Abstraction
