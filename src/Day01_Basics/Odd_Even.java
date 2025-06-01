@@ -3,6 +3,7 @@ package Day01_Basics;
 import java.util.Scanner;
 
 //Check Even or Odd using if-else
+
 public class Odd_Even {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);

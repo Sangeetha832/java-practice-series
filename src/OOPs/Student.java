@@ -1,4 +1,4 @@
-package Day01_Basics;
+package OOPs;
 
 public class Student {
 	private String name;
@@ -62,7 +62,3 @@ public class Student {
 		
 	}
 }
-<<<<<<< HEAD
-=======
-
->>>>>>> 3adf8fd5ce820ca2829e92a6a7f5fa605927f769

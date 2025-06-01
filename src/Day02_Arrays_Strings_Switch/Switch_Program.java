@@ -1,5 +1,14 @@
 package Day02_Arrays_Strings_Switch;
 
+/* Use of switch Statement
+Write a menu-driven program using switch to:
+
+Add 2 numbers
+
+Subtract 2 numbers
+
+Exit */
+
 import java.util.Scanner;
 
 public class Switch_Program {

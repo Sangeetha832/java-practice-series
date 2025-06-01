@@ -1,5 +1,7 @@
 package Day02_Arrays_Strings_Switch;
 
+//Count Vowels in a String
+
 import java.util.Scanner;
 
 public class String_Vowel_Count {

@@ -1,5 +1,7 @@
 package Day02_Arrays_Strings_Switch;
 
+//Check if a String is a Palindrome
+
 import java.util.Scanner;
 
 public class String_palindrome {

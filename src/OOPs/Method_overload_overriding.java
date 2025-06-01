@@ -1,4 +1,4 @@
-package Day01_Basics;
+package OOPs;
 
 public class Method_overload_overriding {
 	public static void main(String[] args) {
@@ -37,10 +37,4 @@ class Circle extends Shape{
 		System.out.println("display circle");
 	}
 }
-<<<<<<< HEAD
- 
-=======
- 
 
-
->>>>>>> 3adf8fd5ce820ca2829e92a6a7f5fa605927f769
