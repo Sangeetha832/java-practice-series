@@ -10,8 +10,8 @@ I’m building this as part of my personal learning challenge and preparation fo
 ## 📘 Topics Covered So Far
 
 * ✅ Day 01: Java Basics, Prime Number, OOP Class (Student)
-* 🔜 Day 02: Loops, Conditionals, Switch Statements
-* 🔜 Day 03: Arrays and Strings
+* 🔜 Day 02: Arrays, Strings and Switch Statements
+* 🔜 Day 03: Exception handling, custom exceptions and Wrapper classes
 * ...and more coming soon!
 
 ---
@@ -47,7 +47,7 @@ Each folder contains topic-based Java files for that day, with clean code and co
 I’m Sangeetha, a Java Developer with 3 years of experience.
 Currently upskilling, building small projects, and actively looking for backend Java opportunities.
 
-Let’s connect on [LinkedIn](https://www.linkedin.com/in/sangeetha-s-162005211/) 💼
+Let’s connect on [LinkedIn](https://www.linkedin.com/in/Sangeetha832/) 💼
 
 ---
 
